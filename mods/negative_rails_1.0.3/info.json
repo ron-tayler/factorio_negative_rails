@@ -1,0 +1,12 @@
+{
+  "name": "negative_rails",
+  "version": "1.0.3",
+  "title": "Negative Rails",
+  "author": "Ron_Tayler",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.0",
+    "? negative_space"
+  ],
+  "description": "Plan the removal of specific ground rail segments with negative rail ghosts. Use them directly or include them in blueprints to rebuild junctions. Elevated rails, rail ramps and rail supports are not supported."
+}

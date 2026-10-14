@@ -1,0 +1,1 @@
+{"name":"negative_rails_test","version":"0.1.0","title":"Negative Rails tests","author":"Ron_Tayler","factorio_version":"2.0","dependencies":["base >= 2.0.0","negative_rails","negative_rails_instant_test"]}

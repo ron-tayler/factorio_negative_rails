@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2026-10-14
+  Changes:
+    - Add Negative Space as an optional dependency.
+    - Explain how the two mods complement each other in Russian and English descriptions.
+  Info:
+    - Factorio 2.0 release. Rail functionality is unchanged.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-10-14
+  Features:
+    - First release of Negative Rails for Factorio 2.0.
+    - Plan precise ground rail deconstruction directly or through blueprints.
+    - Keep unused negative rail segments as protected ghosts, including curves.
+    - Add Russian and English descriptions and interface localization.
+  Info:
+    - Elevated rails, rail ramps and rail supports are not supported.
+    - Inspired by Negative Space.
